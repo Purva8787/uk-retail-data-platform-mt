@@ -1,0 +1,10 @@
+pandas
+SQLAlchemy
+psycopg2-binary
+pymongo
+python-dotenv
+requests
+pytest
+matplotlib
+jupyter
+dbt-postgres

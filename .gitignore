@@ -26,3 +26,7 @@ Thumbs.db
 
 # IDE settings
 .vscode/
+
+# Raw source datasets (keep locally, do not commit)
+data/raw/*
+!data/raw/README.md
